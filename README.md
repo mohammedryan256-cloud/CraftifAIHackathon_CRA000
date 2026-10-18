@@ -21,7 +21,8 @@ An edge-ready computer vision solution for real-time queue length tracking, cust
 * **Interactive Monitoring Dashboard:** Built with Streamlit for clean visualization of bounding boxes, counts, and metric overviews.
 * **Edge-Deployable Pipeline:** Standardized detection configuration suitable for deployment via PipeGen on edge compute hardware.
 
----
+---<img width="1280" height="960" alt="WhatsApp Image 2026-10-18 at 10 21 46 PM" src="https://github.com/user-attachments/assets/355a0670-0c7e-4198-980c-4f368376a4a4" />
+
 
 ## 🛠️ Tech Stack & Prerequisites
 
